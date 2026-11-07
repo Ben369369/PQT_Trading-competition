@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+pqt-student-kit/.kit-git/
+.env*
+*.key
+*secret*

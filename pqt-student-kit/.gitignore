@@ -1,0 +1,27 @@
+.venv/
+__pycache__/
+data/
+*.zip
+*.whl
+pqt-runs/
+*.log
+.env
+
+# --- team59: secrets (API keys must never be committed) ---
+.env*
+*.env
+*.key
+*key*.txt
+*keys*
+*secret*
+*.pem
+credentials*
+# local editor / OS noise
+.vscode/
+.idea/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# live run logs
+logs/
